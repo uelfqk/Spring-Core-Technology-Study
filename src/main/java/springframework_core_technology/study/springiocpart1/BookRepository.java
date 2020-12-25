@@ -1,4 +1,4 @@
-package springframework_core_technology.study.book;
+package springframework_core_technology.study.springiocpart1;
 
 import org.springframework.stereotype.Repository;
 

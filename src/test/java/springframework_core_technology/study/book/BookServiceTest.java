@@ -6,6 +6,10 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import springframework_core_technology.study.config.ApplicationConfig;
+import springframework_core_technology.study.springiocpart1.Book;
+import springframework_core_technology.study.springiocpart1.BookRepository;
+import springframework_core_technology.study.springiocpart1.BookService;
+import springframework_core_technology.study.springiocpart1.BookStatus;
 
 import java.util.Arrays;
 

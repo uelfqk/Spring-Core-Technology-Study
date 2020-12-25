@@ -1,9 +1,7 @@
 package springframework_core_technology.study.config;
 
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
-import springframework_core_technology.study.book.BookRepository;
-import springframework_core_technology.study.book.BookService;
+import springframework_core_technology.study.springiocpart1.BookRepository;
+import springframework_core_technology.study.springiocpart1.BookService;
 
 //@Configuration
 public class ApplicationConfig {

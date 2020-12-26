@@ -1,4 +1,4 @@
-package springframework_core_technology.study.springiocpart5;
+package springframework_core_technology.study.springiocpart5_profile;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;

@@ -1,4 +1,4 @@
-package springframework_core_technology.study.springiocpart5;
+package springframework_core_technology.study.springiocpart5_profile;
 
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Repository;

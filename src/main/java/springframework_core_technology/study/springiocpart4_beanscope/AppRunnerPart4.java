@@ -1,4 +1,4 @@
-package springframework_core_technology.study.springiocpart4;
+package springframework_core_technology.study.springiocpart4_beanscope;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
